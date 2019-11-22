@@ -3,6 +3,7 @@ Shoot Space Cats, earn points, buy amazing upgrades and protect the Earth with b
 SpaceMcShooty is a game I have created in 2 days in Unreal Engine for Epic MegaJam 2019.
 
 The game is available at [itch.io](https://an0num0us.itch.io/spacemcshooty)
+
 ![Game Screenshot](shooty_ss.png)
 
 # Gameplay Instructions
